@@ -1,0 +1,37 @@
+name: "刘叽里咕噜婷"
+alias: "刘叽里咕噜婷"
+author: "刘叽里咕噜婷"
+description: "Illustration artist."
+# url: "https://picsew.cn"
+email: "ljt@picsew.cn"
+github_url: "https://github.com/LettieLau/ljt/"
+timezone: Asia/Shanghai
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+permalink: /posts/contents/:title/
+excerpt_limit: 50
+
+sass:
+  sass_dir: "/assets/sass/"
+  style: compressed
+
+# Plugins
+plugins: [jekyll-paginate,liquid] #jekyll-toc,jekyll-asciidoc]
+paginate: 6
+paginate_path: "/posts/page/:num"
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "post"
+      active_title: "Posts"
