@@ -1,7 +1,7 @@
 ---
 title: Lau
 layout: album
-cover: lau-00008.jpeg
+cover: lau-00006.jpeg
 media:
   - lau-00001.jpeg
   - lau-00002.jpeg
