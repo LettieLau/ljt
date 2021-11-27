@@ -7,7 +7,7 @@ layout: page
 	{% for album in site.gallery %}
 	<div class="gallery-item">
 		<a href="{{ site.url }}{{ album.url }}">
-			<figcaption style="display: block; font-family: 'Raleway', Arial, sans-serif; color: #ffffff; text-align: center;">
+			<figcaption style="position: absolute; top: 20px; left: 20px; right: 20px; bottom: 20px; border: 1px solid white; border-width: 0 1px; display: block; font-family: 'Raleway', Arial, sans-serif; color: #ffffff; text-align: center;">
 			    <div class="caption" style="overflow: hidden; -webkit-transform: translateY(50%); transform: translateY(50%); position: absolute; width: 100%; bottom: 0;">{{ album.title }}</div>
 			</figcaption>
 			<img class="gallery-image" src="{{ site.url | append: '/assets/gallery/cover/' | append: album.cover }}" alt="{{ album.title }}"></a>
