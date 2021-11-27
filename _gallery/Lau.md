@@ -11,4 +11,7 @@ media:
   - lau-00006.jpeg
   - lau-00007.jpeg
   - lau-00008.jpeg
+  - lau-00009.jpeg
+  - lau-00011.jpeg
+  - lau-00010.jpeg
 ---
