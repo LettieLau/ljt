@@ -15,7 +15,7 @@ kramdown:
   syntax_highlighter: rouge
 
 permalink: /posts/contents/:title/
-excerpt_limit: 50
+excerpt_limit: 200
 
 sass:
   sass_dir: "/assets/sass/"
