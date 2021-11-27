@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 ---
 This post intentionally left blank.
 
