@@ -7,7 +7,7 @@ layout: page
 <div class="gallery" id="gallery-album-list">
 	{% for item in page.media %}
 	<div class="gallery-item">
-		<img class="gallery-image" src="{{ site.url | append: '/assets/gallery/cover/' | append: item }}" alt="{{ item }}">
+		<a href="{{ site.url | append: '/assets/gallery/original/' | append: item }}"><img class="gallery-image" src="{{ site.url | append: '/assets/gallery/cover/' | append: item }}" alt="{{ item }}"></a>
 	</div>
 	{% endfor %}
 </div>
