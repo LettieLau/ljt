@@ -29,6 +29,8 @@ paginate_path: "/posts/page/:num"
 collections:
   posts:
     output: true
+  gallery:
+    output: true
 
 defaults:
   - scope:
@@ -37,3 +39,8 @@ defaults:
     values:
       layout: "post"
       active_title: "Posts"
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: "album"
