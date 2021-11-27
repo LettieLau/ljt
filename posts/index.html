@@ -4,7 +4,7 @@ layout: page
 ---
           {% for post in paginator.posts %}
           <div class="post-item">
-            <h2 class="svelte-ffk8g2"> <a href="markdown-test/index.html" rel="prefetch">{{ post.title }}</a> </h2>
+            <h2 class="svelte-ffk8g2"> <a href="{{ site.url }}/{{ post.url }}" rel="prefetch">{{ post.title }}</a> </h2>
             <p>{% include post_preview.html html=post.content limit=site.excerpt_limit %}</p>
             <div class="svelte-ffk8g2 post-item-footer"> <span class="svelte-ffk8g2 post-item-date">— {% include post_date.html date=post.date %}</span> </div>
           </div>
