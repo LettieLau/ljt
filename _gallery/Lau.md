@@ -1,5 +1,6 @@
 ---
 title: Lau
+layout: album
 media:
   - lau-00001.jpeg
   - lau-00002.jpeg
