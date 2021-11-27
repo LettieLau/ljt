@@ -2,10 +2,18 @@
 layout: page
 ---
 <link href="{{ site.url }}/assets/css/gallery.css" rel="stylesheet">
-<div class="gallery">
+<!-- <link href="{{ site.url }}/assets/blueimp-gallery/css/blueimp-exception.css" rel="stylesheet"> -->
+<link href="{{ site.url }}/assets/blueimp-gallery/css/blueimp-gallery.min.css" rel="stylesheet">
+<div class="gallery" id="gallery-album-list">
 	{% for item in page.media %}
 	<div class="gallery-item">
 		<img class="gallery-image" src="{{ site.url | append: '/assets/gallery/cover/' | append: item }}" alt="{{ item }}">
 	</div>
 	{% endfor %}
 </div>
+<script src="{{ site.url }}/assets/blueimp-gallery/js/vendor/jquery.js"></script>
+<script src="{{ site.url }}/assets/blueimp-gallery/js/blueimp-gallery.min.js"></script>
+<script src="{{ site.url }}/assets/blueimp-gallery/js/blueimp-binding.js"></script>
+<script type="text/javascript">
+	bindGalleryEventById('gallery-album-list');
+</script>
