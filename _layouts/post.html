@@ -2,7 +2,7 @@
 layout: base
 ---
         <header class="svelte-1uh130i">
-          <p class="svelte-1uh130i">{{ page.date }}</p>
+          <p class="svelte-1uh130i">{% include post_date.html date=post.date %}</p>
           <h1 class="svelte-1uh130i">{{ page.title }}</h1>
           <hr class="svelte-1uh130i">
         </header>
@@ -11,7 +11,7 @@ layout: base
             {{ content }}
           </article>
           <hr>
-          <div class="svelte-1ulceh0"> <img alt="{{ site.author }}" class="svelte-1ulceh0" src="../../assets/profile-pic.png">
+          <div class="svelte-1ulceh0"> <img alt="{{ site.author_en }}" class="svelte-1ulceh0" src="{{ site.url }}/assets/profile-pic.png">
             <p class="svelte-1ulceh0"> Hi, I'm <strong>{{ site.author }}</strong>. I'm a designer and artist from Shenzhen, China. You can checkout out my <a href="{{ site.url }}/posts/index.html" target="_blank">posts</a>, see some of my work, or read more about me on <a href="{{ site.url }}" target="_blank">my website</a>.</p>
           </div>
         </div>
