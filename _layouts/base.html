@@ -1,0 +1,31 @@
+---
+layout: null
+---
+<!doctype html>
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="#333333" name="theme-color">
+  <!--<base href=/ >-->
+  <link href="./assets/css/global.css" rel="stylesheet">
+  <link href="./assets/css/fonts.css" rel="stylesheet">
+  <link href="./assets/css/highlight.css" rel="stylesheet">
+  <link href="./assets/manifest.json" rel="manifest">
+  <link href="./assets/favicon.png" rel="icon" type="image/png">
+  <link href="./assets/css/main.css" rel="stylesheet"> <noscript id="sapper-head-start"></noscript>
+  <title>{{ site.author }} | {{ page.title }}</title><noscript id="sapper-head-end"></noscript>
+</head>
+
+<body>
+  <div id="sapper">
+    <div class="svelte-v25qrq layout">
+      <header class="svelte-y9ah38"> <a href="{{ site.url }}/index.html"> <img alt="{{ site.author }}" class="svelte-nsstmh" src="{{ site.url }}/assets/logo-192.png"> </a>
+        <nav class="svelte-16fnwww"> <a href="{{ site.url }}/index.html" class="svelte-16fnwww selected">home</a> <a href="{{ site.url }}/about/index.html" class="svelte-16fnwww">about</a> <a href="{{ site.url }}/posts/index.html" class="svelte-16fnwww" rel="prefetch">posts</a> </nav>
+      </header>
+      <main class="svelte-v25qrq">
+        {{ content }}
+      </main>
+      <footer class="svelte-v25qrq"> <span> © 2021 {{ site.author }}'s Blog. Powered by <a href="https://picsew.cn/" target="_blank">Ezra</a>.</span> </footer>
+    </div>
+  </div>
