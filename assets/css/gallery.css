@@ -14,9 +14,9 @@ gallery *::after {
 
 .gallery-item {
   /* Minimum width of 24rem and grow to fit available space */
-  flex: 1 0 24rem;
+  flex: 1 0 150px;
   /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
-  margin: 1rem;
+  margin: 2px;
   box-shadow: 0.3px 0.4px 0.4px rgba(0, 0, 0, 0.4);
   overflow: hidden;
 }
