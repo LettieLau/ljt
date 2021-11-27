@@ -1,0 +1,10 @@
+---
+layout: page
+---
+<div class="gallery">
+	{% for item in page.media %}
+	<div class="gallery-item">
+		<img class="gallery-image" src="{{ site.url | append: '/assets/gallery/cover/' | append: item }}" alt="{{ item }}">
+	</div>
+	{% endfor %}
+</div>
