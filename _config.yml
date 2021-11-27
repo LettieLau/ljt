@@ -6,6 +6,7 @@ description: "Illustration artist."
 url: "https://lettielau.github.io/ljt"
 email: "ljt@picsew.cn"
 github_url: "https://github.com/LettieLau/ljt/"
+excerpt_limit: 100
 timezone: Asia/Shanghai
 
 highlighter: rouge
