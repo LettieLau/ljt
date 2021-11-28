@@ -111,6 +111,8 @@ code {
 pre {
   border-radius: 8px!important;
   margin: 1.2em 0!important;
+  word-break: break-all;
+  white-space: pre-wrap;
 }
 
 pre code {
