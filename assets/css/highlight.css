@@ -39,8 +39,8 @@ pre[class*="language-"] ::selection {
 
 :not(pre) > code[class*="language-"] {
 	white-space: normal;
-	color: #c3cee3;
-	background: #263238;
+	color: #263238;
+	background: #F0F0EF;
 	border-radius: 0.2em;
 	padding: 0.1em;
 }
@@ -52,8 +52,8 @@ pre > code[class*="language-"] {
 pre[class*="language-"] {
 	overflow: auto;
 	position: relative;
-	color: #c3cee3;
-	background: #263238;
+	color: #263238;
+	background: #F0F0EF;
 	border-radius: 0;
 	margin: 0.5em 0;
 	padding: 1.25em 1em;
