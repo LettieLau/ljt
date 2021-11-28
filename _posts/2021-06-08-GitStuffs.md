@@ -3,9 +3,6 @@ title: "Git Stuffs"
 category: "Technology"
 tags: ["Git"]
 date: 20210608T170000+08:00
-hero:
-  format: 'jpeg'
-  url: 'HERO_0029.jpg'
 ---
 ## Branches - 分支
 
@@ -65,5 +62,3 @@ git config pull.ff false
 ```sh
 git config --global pull.ff false
 ```
-
-<center><br /><img src="{{ site.url }}/assets/images/card-pub.jpg" alt="PROFILE" align=center style="width: 100%; max-width: 350px;"/></center>
