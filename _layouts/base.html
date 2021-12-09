@@ -26,6 +26,8 @@ layout: null
       <main class="svelte-v25qrq">
         {{ content }}
       </main>
-      <footer class="svelte-v25qrq"> <span> © 2021 {{ site.author_en }}'s World. Powered by <a href="https://picsew.cn/" target="_blank">Ezra</a>.</span> </footer>
+      {% assign revision_url = site.github_url | append: 'commit/' | append: site.github.build_revision %}
+      {% assign last_update_date = site.time | date: "%X %b %d, %Y" %}
+      <footer class="svelte-v25qrq"> <span> © 2021 {{ site.author_en }}'s World. Powered by <a href="https://picsew.cn/" target="_blank">Ezra</a>. Last generated on <a href="revision_url" target="_blank">{{ last_update_date }}</a>.</span> </footer>
     </div>
   </div>
