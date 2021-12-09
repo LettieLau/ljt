@@ -6,7 +6,7 @@ layout: page
 <div class="gallery">
 	<!-- partial:index.partial.html -->
   <ul class="card-list">
-    {% for album in site.gallert %}
+    {% for album in site.gallery %}
     <li class="card">
       <a class="card-image" href="{{ site.url }}{{ album.url }}" target="_blank" style="background-image: url({{ site.url }}/assets/gallery/cover/{{ album.cover }});"
         data-image-full="{{ site.url }}/assets/gallery/cover/{{ album.cover }}">
@@ -17,6 +17,6 @@ layout: page
         <p>{{ album.media.size }} photo(s)</p>
       </a>
     </li>
-    {% endif %}
+    {% endfor %}
   </ul>
 </div>
