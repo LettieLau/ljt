@@ -165,8 +165,10 @@ td {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 42em;
+  margin: 0 6em;
+  max-width: 50em;
+  /* margin: 0 auto; */
+  /* max-width: 42em; */
   width: 100%;
 }
 
