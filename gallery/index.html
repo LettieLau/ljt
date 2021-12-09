@@ -8,11 +8,11 @@ layout: page
   <ul class="card-list">
     {% for album in site.gallery %}
     <li class="card">
-      <a class="card-image" href="{{ site.url }}{{ album.url }}" target="_blank" style="background-image: url({{ site.url }}/assets/gallery/cover/{{ album.cover }});"
+      <a class="card-image" href="{{ site.url }}{{ album.url }}" target="_self" style="background-image: url({{ site.url }}/assets/gallery/cover/{{ album.cover }});"
         data-image-full="{{ site.url }}/assets/gallery/cover/{{ album.cover }}">
         <img src="{{ site.url }}/assets/gallery/cover/{{ album.cover }}" alt="{{ album.title }}" />
       </a>
-      <a class="card-description" href="{{ site.url }}{{ album.url }}" target="_blank">
+      <a class="card-description" href="{{ site.url }}{{ album.url }}" target="_self">
         <h2>{{ album.title }}</h2>
         <p>{{ album.media.size }} photo(s)</p>
       </a>
