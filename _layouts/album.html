@@ -5,11 +5,20 @@ layout: page
 <!-- <link href="{{ site.url }}/assets/blueimp-gallery/css/blueimp-exception.css" rel="stylesheet"> -->
 <link href="{{ site.url }}/assets/blueimp-gallery/css/blueimp-gallery.min.css" rel="stylesheet">
 <div class="gallery" id="gallery-album-list">
-	{% for item in page.media %}
-	<div class="gallery-item">
-		<a href="{{ site.url | append: '/assets/gallery/original/' | append: item }}"><img class="gallery-image" src="{{ site.url | append: '/assets/gallery/cover/' | append: item }}" alt="{{ item }}"></a>
-	</div>
-	{% endfor %}
+  <ul class="card-list">
+    {% for item in page.media %}
+    <li class="card">
+      <a class="card-image" href="{{ site.url }}{{ album.url }}" target="_blank" style="background-image: url({{ site.url }}/assets/gallery/cover/{{ item }});"
+        data-image-full="{{ site.url }}/assets/gallery/original/{{ item }}">
+        <img src="{{ site.url }}/assets/gallery/cover/{{ item }}" alt="{{ item }}" />
+      </a>
+      <a class="card-description" href="{{ site.url }}{{ item }}" target="_blank">
+        <h2>{{ item }}</h2>
+        <p>{{ forloop.index }}</p>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
 </div>
 {% include gallery_lightbox.html %}
 <script src="{{ site.url }}/assets/blueimp-gallery/js/vendor/jquery.js"></script>

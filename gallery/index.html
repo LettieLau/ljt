@@ -4,11 +4,19 @@ layout: page
 ---
 <link href="{{ site.url }}/assets/css/gallery.css" rel="stylesheet">
 <div class="gallery">
-	{% for album in site.gallery %}
-	<div class="gallery-item">
-		<a href="{{ site.url }}{{ album.url }}">
-			<img class="gallery-image" src="{{ site.url | append: '/assets/gallery/cover/' | append: album.cover }}" alt="{{ album.title }}">
-		</a>
-	</div>
-	{% endfor %}
+	<!-- partial:index.partial.html -->
+  <ul class="card-list">
+    {% for album in site.gallert %}
+    <li class="card">
+      <a class="card-image" href="{{ site.url }}{{ album.url }}" target="_blank" style="background-image: url({{ site.url }}/assets/gallery/cover/{{ album.cover }});"
+        data-image-full="{{ site.url }}/assets/gallery/cover/{{ album.cover }}">
+        <img src="{{ site.url }}/assets/gallery/cover/{{ album.cover }}" alt="{{ album.title }}" />
+      </a>
+      <a class="card-description" href="{{ site.url }}{{ album.url }}" target="_blank">
+        <h2>{{ album.title }}</h2>
+        <p>{{ album.media.size }} photo(s)</p>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
 </div>
