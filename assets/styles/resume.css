@@ -604,7 +604,7 @@ section.has-rabbet::before {
         margin-top: 0;
     }
     .experiences:nth-child(3) {
-        order: 3
+        order: 3;
         margin-top: 0;
     }
 }
