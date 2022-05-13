@@ -583,6 +583,7 @@ section.has-rabbet::before {
     gap: var(--margin);
     width: 100%;
     border-radius: 10px;
+    box-shadow: 0 0 5px white;
 }
 
 .experiences:nth-child(2) {
