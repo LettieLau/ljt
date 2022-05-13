@@ -149,15 +149,16 @@ layout: null
                         <p class="section-description">{{ p }}</p>
                         {% endfor %}
                     </div>
-                    <div class="experiences">
+                    <div class="experiences-wrapper">
                         {% for exp in resume.experiences.experiences %}
-                        <div class="experience">
-                            <img src="{{ exp.image }}" alt="COVER" class="experience-cover">
-                            <div class="experience-info">
-                                <span class="experience-title">{{ exp.title }}</span>
-                                <div class="experience-subtitle">
-                                    <span class="experience-position label">{{ exp.position }}</span>
-                                    <span class="experience-timerange">{{ exp.timerange }}</span>
+                        <div class="experiences">
+                            <div class="experience">
+                                <div class="experience-info">
+                                    <span class="experience-title">{{ exp.title }}</span>
+                                    <div class="experience-subtitle">
+                                        <span class="experience-position label">{{ exp.position }}</span>
+                                        <span class="experience-timerange">{{ exp.timerange }}</span>
+                                    </div>
                                 </div>
                                 <ul class="experience-detail">
                                     {% for p in exp.descriptions %}
