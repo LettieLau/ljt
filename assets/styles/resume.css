@@ -652,8 +652,11 @@ section.has-rabbet::before {
 }
 
 @media print, screen and (max-width: 768px) {
-    .experiences:nth-child(2) .experience:nth-child(1) {
+    .experiences:nth-child(1) .experience:nth-child(1) {
         background: linear-gradient(to right top, #FCEFEB 0%, #EDE8FE 70%, #EDE8FE 100%);
+    }
+    .experiences:nth-child(2) .experience:nth-child(1) {
+        background: linear-gradient(to right top, #EEE9FF 0%, #F2F3FD 70%, #F2F3FD 100%);
     }
     .experiences:nth-child(3) .experience:nth-child(1) {
         background: linear-gradient(to right top, #EFEAFE 0%, #ECFAFF 70%, #ECFAFF 100%);
