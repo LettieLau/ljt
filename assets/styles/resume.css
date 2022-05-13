@@ -560,15 +560,24 @@ section.has-rabbet::before {
     width: calc((100% - var(--margin) * 2) / 3.0);
 }
 
+.experiences:nth-child(1),
+.experiences:nth-last-child(1) {
+    margin-top: 100px;
+}
+
 @media screen and (max-width: 1024px) {
     .experiences {
         width: calc((100% - var(--margin) * 1) / 2.0);
+    }
+    .experiences:nth-last-child(1) {
+        margin-top: 0;
     }
 }
 
 @media print, screen and (max-width: 768px) {
     .experiences {
         width: 100%;
+        margin-top: 0;
     }
 }
 
@@ -584,14 +593,6 @@ section.has-rabbet::before {
     width: 100%;
     border-radius: 10px;
     box-shadow: 0 0 5px white;
-}
-
-.experiences:nth-child(2) {
-    margin-top: 0;
-}
-.experiences:nth-child(1),
-.experiences:nth-last-child(1) {
-    margin-top: 100px;
 }
 
 .experience > * {
