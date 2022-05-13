@@ -566,7 +566,7 @@ section.has-rabbet::before {
     }
 }
 
-@media screen and (max-width: 768px) {
+@media print, screen and (max-width: 768px) {
     .experiences {
         width: 100%;
     }
