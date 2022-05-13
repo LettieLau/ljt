@@ -734,7 +734,7 @@ section.has-rabbet::before {
 .testimonial-background-info {
     width: 100%;
     height: 100%;
-    padding: var(--margin) var(--margin-half) 0 50%;
+    padding: var(--margin-double) var(--margin-half) 0 50%;
     position: relative;
 }
 .testimonial-background-info .section-header {
