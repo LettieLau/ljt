@@ -1,1 +1,1 @@
-@import url(/assets/styles/common.css);
+@import url({{ site.url }}/assets/styles/common.css);

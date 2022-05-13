@@ -1,4 +1,4 @@
-@import url(/assets/styles/common.css);
+@import url({{ site.url }}/assets/styles/common.css);
 
 .container {
     width: 100%;
@@ -123,15 +123,15 @@ section:nth-child(1) {
 }
 
 .has-circle::after {
-    background: url('/assets/shape-circle.svg');
+    background: url('{{ site.url }}/assets/shape-circle.svg');
 }
 
 .has-triangle::after {
-    background: url('/assets/shape-triangle.svg');
+    background: url('{{ site.url }}/assets/shape-triangle.svg');
 }
 
 .has-rectangle::after {
-    background: url('/assets/shape-rectangle.svg');
+    background: url('{{ site.url }}/assets/shape-rectangle.svg');
 }
 
 .has-circle::after,
@@ -150,7 +150,7 @@ section.has-rectangle::after {
 .has-rabbet::before {
     left: var(--margin-half);
     bottom: var(--margin-half);
-    background: url('/assets/shape-rabbet.svg');
+    background: url('{{ site.url }}/assets/shape-rabbet.svg');
 }
 
 section.has-rabbet::before {
@@ -248,7 +248,7 @@ section.has-rabbet::before {
 }
 
 .hello-section .column:nth-last-child(1) {
-    background: url('/assets/wave.svg') repeat space;
+    background: url('{{ site.url }}/assets/wave.svg') repeat space;
 }
 
 .hello-section .section-content {
