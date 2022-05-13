@@ -562,16 +562,14 @@ section.has-rabbet::before {
 
 .experiences:nth-child(2) {
     order: 1;
+    margin-top: 0;
 }
 .experiences:nth-child(1) {
     order: 2;
+    margin-top: 100px;
 }
 .experiences:nth-child(3) {
     order: 3;
-}
-
-.experiences:nth-child(1),
-.experiences:nth-last-child(1) {
     margin-top: 100px;
 }
 
@@ -579,33 +577,35 @@ section.has-rabbet::before {
     .experiences {
         width: calc((100% - var(--margin) * 1) / 2.0);
     }
-    .experiences:nth-last-child(1) {
-        margin-top: 0 !important;
-    }
     .experiences:nth-child(1) {
         order: 1;
+        margin-top: 0;
     }
     .experiences:nth-child(2) {
         order: 2;
+        margin-top: 100px;
     }
     .experiences:nth-child(3) {
         order: 3;
+        margin-top: 0;
     }
 }
 
 @media print, screen and (max-width: 768px) {
     .experiences {
         width: 100%;
-        margin-top: 0 !important;
     }
     .experiences:nth-child(1) {
         order: 1;
+        margin-top: 0;
     }
     .experiences:nth-child(2) {
         order: 2;
+        margin-top: 0;
     }
     .experiences:nth-child(3) {
         order: 3
+        margin-top: 0;
     }
 }
 
