@@ -644,7 +644,7 @@ section.has-rabbet::before {
 .testimonial-wrapper {
     width: 100%;
     position: relative;
-    padding-bottom: var(--margin-page);
+    padding-bottom: var(--margin-four);
 }
 
 .testimonial {
@@ -848,8 +848,8 @@ footer, .footer {
         max-height: 29.7cm !important;
         page-break-before: always;
         overflow: hidden;
-        padding-top: var(--margin-page);
-        padding-bottom: var(--margin-page);
+        padding-top: var(--margin-four);
+        padding-bottom: var(--margin-four);
     }
     section:nth-of-type(1),
     section:nth-last-of-type(1) {

@@ -18,7 +18,8 @@
     --margin: 20px;
     --margin-half: 10px;
     --margin-double: 40px;
-
+    --margin-four: 80px;
+    
     --margin-page: 80px;
 
     --bar-height: 80px;
@@ -37,6 +38,12 @@
     --projects-width: calc(var(--projects-size-base) - var(--margin-page) * 2);
     --project-height: calc(var(--projects-width) * 0.6 * 0.34 * 2);
     --projects-height: calc(var(--project-height) * 2 + var(--margin-double));
+}
+
+@media screen and (min-width: 1280px) {
+    :root {
+        --margin-page: calc((100vw - 1280px) * 0.5);
+    }
 }
 
 @media screen and (max-width: 768px) {
