@@ -31,7 +31,7 @@ layout: null
             </a>
             <div class="menu">
                 {% for item in resume.menu %}
-                <a href="#{{ item.href }}" class="menu-item">{{ item.title }}</a>
+                <a href="{{ item.href }}" class="menu-item" target="{{ item.target }}">{{ item.title }}</a>
                 {% endfor %}
             </div>
         </nav>
