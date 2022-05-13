@@ -637,6 +637,7 @@ section.has-rabbet::before {
     font-size: 0.8rem;
     font-weight: bold;
     text-align: center;
+    color: var(--main-title-cl);
 }
 
 .experience-subtitle {
