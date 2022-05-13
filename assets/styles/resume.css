@@ -1,4 +1,7 @@
-@import url({{ site.url }}/assets/styles/common.css);
+---
+layout: null
+---
+@import url('{{ site.url }}/assets/styles/common.css');
 
 .container {
     width: 100%;
