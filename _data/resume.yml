@@ -100,14 +100,6 @@ zh:
     descriptions:
       - '我的数字职业旅程，精心制作引人注目的品牌叙事，将公司的愿景变为现实。'
     experiences:
-      - title: '深圳·欧迈伦'
-        position: '平面设计师'
-        timerange: '2021年01月 - 2021年07月'
-        image: '/ljt/assets/experience/exp02.jpg'
-        descriptions:
-          - '为企业设计和改善 LOGO、海报、宣传册、淘宝装修物料和网站，充分契合需求，并得到团队及消费者的一致认可。'
-          - '为了达到最佳效果，亲自进行素材采集和拍摄工作。'
-          - '与其他部门和团队积极配合，主动承担更多职责，在此过程中拓宽了视野，对企业的运转也有了更深的了解。'
       - title: '深圳·前海氢氧'
         position: '高级 UI/UX 设计师'
         timerange: '2021年07月 - 至今'
@@ -119,6 +111,14 @@ zh:
           - '对比竞品并积极贡献不同角度的创意和建议，在不断的探索和实践中提升了综合能力。'
           - '参与制定和维护设计标准，大幅提升了团队工作和沟通效率、产出更加规范。'
           - '积极进行设计走查，并在此过程中掌握了一系列沟通技能。'
+      - title: '深圳·欧迈伦'
+        position: '平面设计师'
+        timerange: '2021年01月 - 2021年07月'
+        image: '/ljt/assets/experience/exp02.jpg'
+        descriptions:
+          - '为企业设计和改善 LOGO、海报、宣传册、淘宝装修物料和网站，充分契合需求，并得到团队及消费者的一致认可。'
+          - '为了达到最佳效果，亲自进行素材采集和拍摄工作。'
+          - '与其他部门和团队积极配合，主动承担更多职责，在此过程中拓宽了视野，对企业的运转也有了更深的了解。'
       - title: '深圳信息学院'
         position: '数字媒体应用技术'
         timerange: '2018年09月 - 2021年06月'
@@ -245,14 +245,6 @@ en:
     descriptions:
       - "My digital career journey, to craft compelling brand narratives that bring a company's vision to life."
     experiences:
-      - title: 'Shenzhen·Omelle'
-        position: 'Graphic Designer'
-        timerange: 'Jan. 2021 - Jal. 2021'
-        image: '/ljt/assets/experience/exp02.jpg'
-        descriptions:
-          - "Design logos, mobile apps, marketing materials, posters, brochures, and websites for small business clients in numerous niches. Designs have been recognized by the team and customers."
-          - "Personally carry out material collection and filming work to achieve the best results."
-          - "Actively cooperated with other departments and teams, took the initiative to take on more responsibilities, broadening my horizons and gaining a deeper understanding of how the business works in the process."
       - title: 'Shenzhen·Qianhai Qingyang'
         position: 'Sr. UI/UX Designer'
         timerange: 'Jul. 2021 - Present'
@@ -264,6 +256,14 @@ en:
           - "Compared with competing products and actively contribute ideas and suggestions from different perspectives, improving overall ability through continuous exploration and practice."
           - "Participated in the development and maintenance of design standards, which significantly improved the efficiency of team work and communication, and more standardized output."
           - "Actively conduct design walk and acquire a series of communication skills in the process."
+      - title: 'Shenzhen·Omelle'
+        position: 'Graphic Designer'
+        timerange: 'Jan. 2021 - Jal. 2021'
+        image: '/ljt/assets/experience/exp02.jpg'
+        descriptions:
+          - "Design logos, mobile apps, marketing materials, posters, brochures, and websites for small business clients in numerous niches. Designs have been recognized by the team and customers."
+          - "Personally carry out material collection and filming work to achieve the best results."
+          - "Actively cooperated with other departments and teams, took the initiative to take on more responsibilities, broadening my horizons and gaining a deeper understanding of how the business works in the process."
       - title: 'Shenzhen Institute of Info. Tech.'
         position: 'Digital Media App. Tech.'
         timerange: 'Sep. 2018 - Jun. 2021'
