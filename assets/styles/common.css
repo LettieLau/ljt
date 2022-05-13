@@ -40,12 +40,6 @@
     --projects-height: calc(var(--project-height) * 2 + var(--margin-double));
 }
 
-@media screen and (min-width: 1280px) {
-    :root {
-        --margin-page: calc((100vw - 1280px) * 0.5);
-    }
-}
-
 @media screen and (max-width: 768px) {
     :root {
         --margin-page: 40px;
