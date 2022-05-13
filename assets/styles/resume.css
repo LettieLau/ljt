@@ -545,7 +545,7 @@ section.has-rabbet::before {
     height: 100%;
     position: relative;
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     align-items: flex-start;
     justify-content: center;
     gap: var(--margin);
