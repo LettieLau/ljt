@@ -23,18 +23,22 @@ zh:
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj00.jpg'
       - title: '保利 APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj01.jpg'
       - title: '骑记 APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj02.jpg'
       - title: '骑记 APP (海外版)'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj03.jpg'
   capabilities:
     title: '更好的设计，更好的体验'
     descriptions:
@@ -76,6 +80,7 @@ zh:
       - title: '深圳·前海氢氧'
         position: '高级 UI/UX 设计师'
         timerange: '2021年07月 - 至今'
+        image: '/ljt/assets/experience/exp01.jpg'
         descriptions:
           - '引领了企业文化及产品重塑工作，使原本欠佳的呈现效果获得大幅改善。'
           - '为企业设计和改善 LOGO、APP、小程序、营销物料和网站，充分契合需求的同时为用户提供舒适惊艳的品牌体验。'
@@ -86,6 +91,7 @@ zh:
       - title: '深圳·欧迈伦'
         position: '平面设计师'
         timerange: '2021年01月 - 2021年07月'
+        image: '/ljt/assets/experience/exp02.jpg'
         descriptions:
           - '为企业设计和改善 LOGO、海报、宣传册、淘宝装修物料和网站，充分契合需求，并得到团队及消费者的一致认可。'
           - '为了达到最佳效果，亲自进行素材采集和拍摄工作。'
@@ -93,6 +99,7 @@ zh:
       - title: '深圳信息学院'
         position: '数字媒体应用技术'
         timerange: '2018年09月 - 2021年06月'
+        image: '/ljt/assets/experience/exp03.jpg'
         descriptions:
           - '出色完成学校课业，并多次荣获奖学金激励。'
           - '积极参加课外课程、活动与实习，为各种不同需求的小企业设计海报、宣传册和网站，积累了诸多经验。'
@@ -138,18 +145,22 @@ en:
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj00.jpg'
       - title: 'Poly APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj01.jpg'
       - title: 'QiCYCLE APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj02.jpg'
       - title: 'QiCYCLE APP (Oversea)'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+        image: '/ljt/assets/project/proj03.jpg'
   capabilities:
     title: 'Better Design, Better Experiences'
     descriptions:
@@ -191,6 +202,7 @@ en:
       - title: 'Shenzhen·Qianhai Qingyang'
         position: 'Sr. UI/UX Designer'
         timerange: 'Jul. 2021 - Present'
+        image: '/ljt/assets/experience/exp01.jpg'
         descriptions:
           - "Led the rebranding of corporate culture and products, resulting in significant improvements in presentation."
           - "Design logos, mobile apps, marketing materials, posters, brochures, and websites to providing a comfortable and stunning brand experience for users while fully meet the needs."
@@ -201,6 +213,7 @@ en:
       - title: 'Shenzhen·Omelle'
         position: 'Graphic Designer'
         timerange: 'Jan. 2021 - Jal. 2021'
+        image: '/ljt/assets/experience/exp02.jpg'
         descriptions:
           - "Design logos, mobile apps, marketing materials, posters, brochures, and websites for small business clients in numerous niches. Designs have been recognized by the team and customers."
           - "Personally carry out material collection and filming work to achieve the best results."
@@ -208,6 +221,7 @@ en:
       - title: 'Shenzhen Institute of Info. Tech.'
         position: 'Digital Media App. Tech.'
         timerange: 'Sep. 2018 - Jun. 2021'
+        image: '/ljt/assets/experience/exp03.jpg'
         descriptions:
           - "Got multiple scholarship incentives after complete school studies."
           - "Design logos, mobile apps, posters, and websites for small business clients in numerous niches."
