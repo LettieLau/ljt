@@ -560,6 +560,18 @@ section.has-rabbet::before {
     width: calc((100% - var(--margin) * 2) / 3.0);
 }
 
+@media screen and (max-width: 1024px) {
+    .experiences {
+        width: calc((100% - var(--margin) * 1) / 2.0);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .experiences {
+        width: 100%;
+    }
+}
+
 .experience {
     background: transparent;
     position: relative;
@@ -627,7 +639,6 @@ section.has-rabbet::before {
 }
 
 .experience-subtitle {
-    font-size: var(--min-fs);
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
@@ -636,9 +647,10 @@ section.has-rabbet::before {
     text-align: center;
 }
 
-.experience-position {}
-
-.experience-timerange {}
+.experience-position,
+.experience-timerange {
+    font-size: var(--min-fs);
+}
 
 .experience-detail {
     position: relative;
