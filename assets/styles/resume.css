@@ -570,14 +570,14 @@ section.has-rabbet::before {
         width: calc((100% - var(--margin) * 1) / 2.0);
     }
     .experiences:nth-last-child(1) {
-        margin-top: 0;
+        margin-top: 0 !important;
     }
 }
 
 @media print, screen and (max-width: 768px) {
     .experiences {
         width: 100%;
-        margin-top: 0;
+        margin-top: 0 !important;
     }
 }
 
