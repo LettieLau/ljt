@@ -660,7 +660,9 @@ section.has-rabbet::before {
     z-index: 1;
 }
 
-.experience-detail-item {}
+.experience-detail-item {
+    font-size: var(--min-fs);
+}
 
 .testimonials-section {
     padding-right: 0 !important;
