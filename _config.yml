@@ -9,38 +9,38 @@ github_url: "https://github.com/LettieLau/ljt/"
 excerpt_limit: 100
 timezone: Asia/Shanghai
 
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
+# highlighter: rouge
+# markdown: kramdown
+# kramdown:
+#   syntax_highlighter: rouge
 
-permalink: /posts/contents/:title/
-excerpt_limit: 200
+# permalink: "/posts/contents/:title"
+# excerpt_limit: 200
 
-sass:
-  sass_dir: "/assets/sass/"
-  style: compressed
+# sass:
+#   sass_dir: "/assets/sass/"
+#   style: compressed
 
 # Plugins
-plugins: [jekyll-paginate,liquid] #jekyll-toc,jekyll-asciidoc]
-paginate: 6
-paginate_path: "/posts/page/:num"
+plugins: [liquid] #jekyll-paginate,jekyll-toc,jekyll-asciidoc]
+# paginate: 6
+# paginate_path: "/posts/page/:num"
 
-collections:
-  posts:
-    output: true
-  gallery:
-    output: true
+# collections:
+#   posts:
+#     output: true
+#   gallery:
+#     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: "post"
-      active_title: "Posts"
-  - scope:
-      path: ""
-      type: gallery
-    values:
-      layout: "album"
+# defaults:
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: "post"
+#       active_title: "Posts"
+#   - scope:
+#       path: ""
+#       type: gallery
+#     values:
+#       layout: "album"
