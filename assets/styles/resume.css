@@ -640,9 +640,9 @@ section.has-rabbet::before {
 
 .experience-subtitle {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     gap: var(--margin-half);
     text-align: center;
 }
