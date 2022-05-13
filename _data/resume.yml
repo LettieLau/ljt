@@ -21,7 +21,7 @@ zh:
     - title: '联系'
       href: '#contact'
       target: '_self'
-    - title: 'EN/中'
+    - title: 'EN'
       href: '/ljt/resume/en/'
       target: '_self'
   hello:
@@ -166,7 +166,7 @@ en:
     - title: 'Contact'
       href: '#contact'
       target: '_self'
-    - title: 'EN/中'
+    - title: '中文'
       href: '/ljt/resume/zh/'
       target: '_self'
   hello:
