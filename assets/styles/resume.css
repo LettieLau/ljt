@@ -632,12 +632,10 @@ section.has-rabbet::before {
 }
 
 .experiences:nth-child(1) .experience:nth-child(2) {
-    
     background: linear-gradient(to right top, #FCEFEB 0%, #EDE8FE 70%, #EDE8FE 100%);
 }
 
 .experiences:nth-child(2) .experience:nth-child(1) {
-    
     background: linear-gradient(to right top, #EEEAFF 0%, #ECF8FD 70%, #ECF8FD 100%);
 }
 
@@ -646,12 +644,20 @@ section.has-rabbet::before {
 }
 
 .experiences:nth-child(3) .experience:nth-child(1) {
-    
     background: linear-gradient(to right top, #EDF6FE 0%, #EFF6FE 70%, #EFF6FE 100%);
 }
 
 .experiences:nth-child(3) .experience:nth-child(2) {
     background: linear-gradient(to right top, #EFEAFE 0%, #ECFAFF 70%, #ECFAFF 100%);
+}
+
+@media print, screen and (max-width: 768px) {
+    .experiences:nth-child(2) .experience:nth-child(1) {
+        background: linear-gradient(to right top, #FCEFEB 0%, #EDE8FE 70%, #EDE8FE 100%);
+    }
+    .experiences:nth-child(3) .experience:nth-child(1) {
+        background: linear-gradient(to right top, #EFEAFE 0%, #ECFAFF 70%, #ECFAFF 100%);
+    }
 }
 
 .experience-info {
