@@ -657,6 +657,7 @@ section.has-rabbet::before {
 .experience-detail {
     position: relative;
     padding: var(--margin);
+    padding-left: var(--margin-double);
     background: #fff7;
     border-radius: 10px 10px 0 0;
     z-index: 1;
