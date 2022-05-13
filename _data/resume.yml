@@ -1,0 +1,230 @@
+zh:
+  name: '刘嘉婷'
+  copyright: '刘嘉婷 © 2022 版权所有'
+  hello:
+    position: '高级 UI/UX 设计师'
+    title: 'Hi there<br/>我是 刘嘉婷'
+    descriptions:
+      - 'Hi, 欢迎来到我的小站！'
+      - '我是一名在深圳奋斗 2 年有余的职业 UI/UX 设计师 及 平面设计师。'
+      - '希望加入一个充满活力的专业团队，我的创造力和设计技能也将随时为之待命。'
+    contact_button:
+      title: '与我联系'
+      href: '#contact'
+    download_button:
+      title: '下载 PDF'
+      href: '/assets/resume-liujiating-zh.pdf'
+  portfolio:
+    title: '充满创意的作品, 绚丽多彩的呈现'
+    descriptions:
+      - '简洁是精致的最终形式。'
+    projects:
+      - title: '启朔官网'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+      - title: '保利 APP'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+      - title: '骑记 APP'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+      - title: '骑记 APP (海外版)'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+  capabilities:
+    title: '更好的设计，更好的体验'
+    descriptions:
+      - '最新的技术栈结合最先进的 UI/UX 策略，为产品的可用性和优化性保驾护航。'
+    skills:
+      - title: 'UI/UX 设计'
+        href: '/assets/skills/ps.svg'
+      - title: 'LOGO 设计'
+        href: '/assets/skills/logo.svg'
+      - title: '平面设计'
+        href: '/assets/skills/poster.svg'
+      - title: '产品设计'
+        href: '/assets/skills/pm.svg'
+      - title: 'Adobe Photoshop'
+        href: '/assets/skills/ps.svg'
+      - title: 'Adobe Illustrator'
+        href: '/assets/skills/ai.svg'
+      - title: 'Adobe Premiere Pro'
+        href: '/assets/skills/pr.svg'
+      - title: 'Adobe After Effects'
+        href: '/assets/skills/ae.svg'
+      - title: 'Sketch'
+        href: '/assets/skills/sk.svg'
+      - title: 'Figma'
+        href: '/assets/skills/fg.svg'
+      - title: 'Axure RP'
+        href: '/assets/skills/rp.svg'
+      - title: 'Adobe XD'
+        href: '/assets/skills/xd.svg'
+      - title: '3Ds Max'
+        href: '/assets/skills/3dsmax.svg'
+      - title: 'HTML/CSS'
+        href: '/assets/skills/h5.svg'
+  experiences:
+    title: '我的工作，我的旅程'
+    descriptions:
+      - '我的数字职业旅程，精心制作引人注目的品牌叙事，将公司的愿景变为现实。'
+    experiences:
+      - title: '深圳·前海氢氧'
+        position: '高级 UI/UX 设计师'
+        timerange: '2021年07月 - 至今'
+        descriptions:
+          - '引领了企业文化及产品重塑工作，使原本欠佳的呈现效果获得大幅改善。'
+          - '为企业设计和改善 LOGO、APP、小程序、营销物料和网站，充分契合需求的同时为用户提供舒适惊艳的品牌体验。'
+          - '在企业 ERP 系统改版工作中，对企业及供应链有了更深的理解。'
+          - '对比竞品并积极贡献不同角度的创意和建议，在不断的探索和实践中提升了综合能力。'
+          - '参与制定和维护设计标准，大幅提升了团队工作和沟通效率、产出更加规范。'
+          - '积极进行设计走查，并在此过程中掌握了一系列沟通技能。'
+      - title: '深圳·欧迈伦'
+        position: '平面设计师'
+        timerange: '2021年01月 - 2021年07月'
+        descriptions:
+          - '为企业设计和改善 LOGO、海报、宣传册、淘宝装修物料和网站，充分契合需求，并得到团队及消费者的一致认可。'
+          - '为了达到最佳效果，亲自进行素材采集和拍摄工作。'
+          - '与其他部门和团队积极配合，主动承担更多职责，在此过程中拓宽了视野，对企业的运转也有了更深的了解。'
+      - title: '深圳信息学院'
+        position: '数字媒体应用技术'
+        timerange: '2018年09月 - 2021年06月'
+        descriptions:
+          - '出色完成学校课业，并多次荣获奖学金激励。'
+          - '积极参加课外课程、活动与实习，为各种不同需求的小企业设计海报、宣传册和网站，积累了诸多经验。'
+          - '积极参加社团活动，在丰富校园生活的同时也使自己的沟通能力、领导能力、协作能力得到历练。'
+          - '荣获2021年什么什么什么奖。'
+  testimonials:
+    title: '听听我的客户们怎么说'
+    testimonial:
+      author: '李圆圆'
+      position: '设计总监'
+      company: '深圳前海氢氧'
+      descriptions:
+        - '性格可爱乖巧，心思细腻、条理清晰、心地善良、吃苦耐劳，具有很强的上进心。'
+        - '专业能力全面且优异，设计理念专业且前卫，是少有的综合型人才。在工作中效率极高，所有任务都能及时出色完成，是设计团队的核心成员、顶梁柱。'
+        - '希望你能找到更适合自己发展的平台。'
+  contact:
+    title: '让我们全力以赴，携手共进'
+    descriptions:
+      - '希望加入一个充满活力的专业团队，我的创造力和设计技能也将随时为之待命。'
+      - '赶快与我联系吧！'
+en:
+  name: 'Jiating Liu'
+  copyright: 'Jiating Liu © 2022 All rights received'
+  hello:
+    position: 'Sr. UI/UX Designer'
+    title: "Hello,<br/>I'm Jiating Liu"
+    descriptions:
+      - 'Welcome here!'
+      - "I'm a UI/UX Designer and Graphic Designer with 2 years of experience as both a freelancer and team member."
+      - "I'm a pro who is ready to bring her creativity and design skills to a progressive organization looking to increase its contemporary client base."
+    contact_button:
+      title: 'Contact'
+      href: '#contact'
+    download_button:
+      title: 'Download PDF'
+      href: '/assets/resume-liujiating-en.pdf'
+  portfolio:
+    title: 'All Creative Works, Selected Projects'
+    descriptions:
+      - 'Simplificy is the ultimate form of sophistication.'
+    projects:
+      - title: 'Cheersu Official Website'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+      - title: 'Poly APP'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+      - title: 'QiCYCLE APP'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+      - title: 'QiCYCLE APP (Oversea)'
+        descriptions:
+          - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
+          - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
+  capabilities:
+    title: 'Better Design, Better Experiences'
+    descriptions:
+      - 'The latest tech stack combined with cutting edge UI/UX strategies ensure your products usability and optimization are on point.'
+    skills:
+      - title: 'UI/UX Design'
+        href: '/assets/skills/ps.svg'
+      - title: 'LOGO Design'
+        href: '/assets/skills/logo.svg'
+      - title: 'Graphic Design'
+        href: '/assets/skills/poster.svg'
+      - title: 'Product Design'
+        href: '/assets/skills/pm.svg'
+      - title: 'Adobe Photoshop'
+        href: '/assets/skills/ps.svg'
+      - title: 'Adobe Illustrator'
+        href: '/assets/skills/ai.svg'
+      - title: 'Adobe Premiere Pro'
+        href: '/assets/skills/pr.svg'
+      - title: 'Adobe After Effects'
+        href: '/assets/skills/ae.svg'
+      - title: 'Sketch'
+        href: '/assets/skills/sk.svg'
+      - title: 'Figma'
+        href: '/assets/skills/fg.svg'
+      - title: 'Axure RP'
+        href: '/assets/skills/rp.svg'
+      - title: 'Adobe XD'
+        href: '/assets/skills/xd.svg'
+      - title: '3Ds Max'
+        href: '/assets/skills/3dsmax.svg'
+      - title: 'HTML/CSS'
+        href: '/assets/skills/h5.svg'
+  experiences:
+    title: 'The work I do, the journey I quest'
+    descriptions:
+      - "My digital career journey, to craft compelling brand narratives that bring a company's vision to life."
+    experiences:
+      - title: 'Shenzhen·Qianhai Qingyang'
+        position: 'Sr. UI/UX Designer'
+        timerange: 'Jul. 2021 - Present'
+        descriptions:
+          - "Led the rebranding of corporate culture and products, resulting in significant improvements in presentation."
+          - "Design logos, mobile apps, marketing materials, posters, brochures, and websites to providing a comfortable and stunning brand experience for users while fully meet the needs."
+          - "Worked on the revision of the enterprise ERP system and gained a deeper understanding of the enterprise and supply chain."
+          - "Compared with competing products and actively contribute ideas and suggestions from different perspectives, improving overall ability through continuous exploration and practice."
+          - "Participated in the development and maintenance of design standards, which significantly improved the efficiency of team work and communication, and more standardized output."
+          - "Actively conduct design walk and acquire a series of communication skills in the process."
+      - title: 'Shenzhen·Omelle'
+        position: 'Graphic Designer'
+        timerange: 'Jan. 2021 - Jal. 2021'
+        descriptions:
+          - "Design logos, mobile apps, marketing materials, posters, brochures, and websites for small business clients in numerous niches. Designs have been recognized by the team and customers."
+          - "Personally carry out material collection and filming work to achieve the best results."
+          - "Actively cooperated with other departments and teams, took the initiative to take on more responsibilities, broadening my horizons and gaining a deeper understanding of how the business works in the process."
+      - title: 'Shenzhen Institute of Info. Tech.'
+        position: 'Digital Media App. Tech.'
+        timerange: 'Sep. 2018 - Jun. 2021'
+        descriptions:
+          - "Got multiple scholarship incentives after complete school studies."
+          - "Design logos, mobile apps, posters, and websites for small business clients in numerous niches."
+          - "Actively participate in club activities, enriched campus life and practiced communication, leadership and collaboration skills."
+          - "Winner of SOME AWARD ANEM award in 2021."
+  testimonials:
+    title: 'Hear from my happy clients'
+    testimonial:
+      author: 'Yuanyuan Lee'
+      position: 'Chief Design Director'
+      company: 'Shenzhen Qianhan Qingyang'
+      descriptions:
+        - "She's a lovely, kind, hard-working, and strong motivated person with a lovely personality and a delicate mind."
+        - "She's a professional designer with excellent capabilities and avant-garde concepts. A rare comprehensive talented girl indeed. Also, she's very efficient in work, all tasks was completed in a timely and excellent manner. She is and will always be a core member and backbone of the design team."
+        - "I hope she can find a better and more suitable platform."
+  contact:
+    title: "Let's work together and I will do my best"
+    descriptions:
+      - "I'm ready to bring my creativity and design skills to a progressive organization looking to increase its contemporary client base."
+      - 'Contact me now!'
