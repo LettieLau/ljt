@@ -703,6 +703,7 @@ section.has-rabbet::before {
 
 .experience-detail-item {
     font-size: var(--min-fs);
+    padding: 3px 0;
 }
 
 .testimonials-section {

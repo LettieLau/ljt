@@ -68,7 +68,7 @@ zh:
       - '最新的技术栈结合最先进的 UI/UX 策略，为产品的可用性和优化性保驾护航。'
     skills:
       - title: 'UI/UX 设计'
-        image: '/ljt/assets/skill/ps.svg'
+        image: '/ljt/assets/skill/ui.svg'
       - title: 'LOGO 设计'
         image: '/ljt/assets/skill/logo.svg'
       - title: '平面设计'
@@ -213,7 +213,7 @@ en:
       - 'The latest tech stack combined with cutting edge UI/UX strategies ensure your products usability and optimization are on point.'
     skills:
       - title: 'UI/UX Design'
-        image: '/ljt/assets/skill/ps.svg'
+        image: '/ljt/assets/skill/ui.svg'
       - title: 'LOGO Design'
         image: '/ljt/assets/skill/logo.svg'
       - title: 'Graphic Design'
