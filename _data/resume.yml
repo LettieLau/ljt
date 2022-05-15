@@ -42,22 +42,22 @@ zh:
     descriptions:
       - '简洁是精致的最终形式。'
     projects:
-      - title: '启朔官网'
+      - title: '网站'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/cheersu.jpg'
-      - title: '骑记 APP'
+        image: '/ljt/assets/project/web.jpg'
+      - title: '骑行 APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/qicycle.jpg'
-      - title: '保利 APP'
+        image: '/ljt/assets/project/ride.jpg'
+      - title: '电影 APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/poly.jpg'
-      - title: '骑记 APP (海外版)'
+        image: '/ljt/assets/project/film.jpg'
+      - title: '其它'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
@@ -187,22 +187,22 @@ en:
     descriptions:
       - 'Simplificy is the ultimate form of sophistication.'
     projects:
-      - title: 'Cheersu Official Website'
+      - title: 'Website'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/cheersu.jpg'
-      - title: 'QiCYCLE APP'
+        image: '/ljt/assets/project/web.jpg'
+      - title: 'Riding APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/qicycle.jpg'
-      - title: 'Poly APP'
+        image: '/ljt/assets/project/ride.jpg'
+      - title: 'Moive APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/poly.jpg'
-      - title: 'QiCYCLE APP (Oversea)'
+        image: '/ljt/assets/project/film.jpg'
+      - title: 'Other'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
