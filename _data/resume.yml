@@ -57,11 +57,11 @@ zh:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
         image: '/ljt/assets/project/film.jpg'
-      - title: '其它'
+      - title: '图标'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/qicycle-oversea.jpg'
+        image: '/ljt/assets/project/icons.jpg'
   capabilities:
     title: '更好的设计，更好的体验'
     descriptions:
@@ -202,11 +202,11 @@ en:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
         image: '/ljt/assets/project/film.jpg'
-      - title: 'Other'
+      - title: 'Icons'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/qicycle-oversea.jpg'
+        image: '/ljt/assets/project/icons.jpg'
   capabilities:
     title: 'Better Design, Better Experiences'
     descriptions:
