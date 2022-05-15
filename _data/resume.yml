@@ -46,22 +46,22 @@ zh:
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj00.jpg'
+        image: '/ljt/assets/project/cheersu.jpg'
       - title: '骑记 APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj02.jpg'
+        image: '/ljt/assets/project/qicycle.jpg'
       - title: '保利 APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj01.jpg'
+        image: '/ljt/assets/project/poly.jpg'
       - title: '骑记 APP (海外版)'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj03.jpg'
+        image: '/ljt/assets/project/qicycle-oversea.jpg'
   capabilities:
     title: '更好的设计，更好的体验'
     descriptions:
@@ -191,22 +191,22 @@ en:
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj00.jpg'
+        image: '/ljt/assets/project/cheersu.jpg'
       - title: 'QiCYCLE APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj02.jpg'
+        image: '/ljt/assets/project/qicycle.jpg'
       - title: 'Poly APP'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj01.jpg'
+        image: '/ljt/assets/project/poly.jpg'
       - title: 'QiCYCLE APP (Oversea)'
         descriptions:
           - 'Commodo minim non irure adipisicing mollit cupidatat fugiat consectetur aliqua. Laborum consectetur velit mollit enim deserunt magna anim ex do. Deserunt cillum ut consequat non ex aliquip in nisi nulla officia.'
           - 'Deserunt anim labore aliquip voluptate nostrud minim fugiat excepteur id cupidatat nostrud cillum. Cupidatat adipisicing veniam adipisicing nisi sunt ad enim sunt consectetur ipsum nostrud cillum et ad. Veniam cupidatat nulla quis nisi elit amet laboris nulla.'
-        image: '/ljt/assets/project/proj03.jpg'
+        image: '/ljt/assets/project/qicycle-oversea.jpg'
   capabilities:
     title: 'Better Design, Better Experiences'
     descriptions:
