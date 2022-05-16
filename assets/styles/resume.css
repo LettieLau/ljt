@@ -810,6 +810,7 @@ section.has-rabbet::before {
 
 /* .testimonial-background-of-background, */
 .testimonial-background-wrapper {
+    position: absolute;
     bottom: 0;
     top: var(--margin);
     left: var(--margin-page);
