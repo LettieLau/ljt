@@ -104,6 +104,12 @@ section:nth-child(1) {
     height: calc(100vh - var(--bar-height));
 }
 
+@media screen and (min-width: 1920px) {
+    section {
+        min-height: unset;
+    }
+}
+
 .has-circle,
 .has-triangle,
 .has-rectangle,
