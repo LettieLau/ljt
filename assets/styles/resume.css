@@ -104,7 +104,7 @@ section:nth-child(1) {
     height: calc(100vh - var(--bar-height));
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1281px) {
     section {
         min-height: unset;
     }
@@ -817,7 +817,7 @@ section.has-rabbet::before {
     background: var(--main-btn-bg-cl);
     border-radius: 0 0 0 20px;
 }
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1281px) {
     /* .testimonial-background-of-background, */
     .testimonial-background-wrapper {
         border-radius: 20px;
